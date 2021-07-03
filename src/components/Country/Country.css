@@ -1,0 +1,15 @@
+.flag img{
+    width: 350px;
+}
+.country{
+    border:1px solid red;
+    margin: 20px; 
+    padding: 20px 10px;
+    text-align: center;
+}
+.detail-btn{
+    background:tomato;
+    border: none;
+    padding:10px 20px;
+    border-radius: 7px;
+}

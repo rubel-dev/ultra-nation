@@ -1,0 +1,11 @@
+.country-info{
+    width: 400px;
+    margin:50px auto;
+    text-align: center;
+    border: 1px solid purple;
+    padding-top: 50px;
+}
+.country-info img{
+    width:300px;
+    border-radius: 10px;
+}
